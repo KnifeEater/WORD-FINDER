@@ -4,7 +4,7 @@ This code is like a big updated version of that code.
   
   
   **New features:**  
-  **BONUS search mode, "perfect search" (based on advenced mode, just a little slover)**
+  **BONUS search mode, "perfect search" (based on advenced mode, just a little slover)**  
   **WORD LENGTH customization! (now you can search for any word)**  
   **Custom word add and search action!**  
   **Rank show buttom (now you can see the rank of the word if you are interested)**  
