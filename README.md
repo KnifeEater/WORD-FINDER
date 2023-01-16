@@ -9,7 +9,7 @@ This code is like a big updated version of that code.
   **Custom word add and search action!**  
   **Rank show buttom (now you can see the rank of the word if you are interested)**  
   **Reset search button (if you skipped something with next button, you can now go back with this button)**  
-  *Keep in mind that you can also input your library of choice and letters of your alphabet in letters_rank file*
+  *Keep in mind that you can also input your library of choice and letters of your alphabet in letters_rank file*  
   *This code can work on other languages (but not all, due to symbols comlications)*
   
     
