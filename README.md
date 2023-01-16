@@ -8,7 +8,7 @@ This code is like a big updated version of that code.
   **WORD LENGTH customization! (now you can search for any word)**  
   **Custom word add and search action!**  
   **Rank show buttom (now you can see the rank of the word if you are interested)**  
-  That's it for now!  
+  **Reset search button (if you skipped something with next button, you can now go back with this button)**
   
     
     
