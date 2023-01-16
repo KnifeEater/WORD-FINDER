@@ -12,8 +12,13 @@ This code is like a big updated version of that code.
   
     
     
-    **Note that when finding a 10+ char length word, be sure to indicate it with letters in place and _'s.**  
+**Note that when finding a 10+ char length word, be sure to indicate it with letters in place and _'s.**  
       
       
       
-      **Sorce:**
+**SOURCES:**
+Finally, without a word libary, this code wouldn't be here.  
+Please, check out [dwyl](https://github.com/dwyl) if you are interested in projects like these!  
+  
+  
+**Please enjoy my code, and thank you for reading this!**
