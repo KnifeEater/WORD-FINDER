@@ -1,0 +1,8 @@
+C:\Users\Stefan\Desktop\WORD FINDER\WORD FINDER\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Stefan\Desktop\WORD FINDER\WORD FINDER\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Stefan\Desktop\WORD FINDER\WORD FINDER\obj\x86\Debug\WORD FINDER.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\WORD FINDER\WORD FINDER\bin\Debug\WORD FINDER.exe
+C:\Users\Stefan\Desktop\WORD FINDER\WORD FINDER\bin\Debug\WORD FINDER.pdb
+C:\Users\Stefan\Desktop\WORD FINDER\WORD FINDER\obj\x86\Debug\WORD FINDER.exe
+C:\Users\Stefan\Desktop\WORD FINDER\WORD FINDER\obj\x86\Debug\WORD FINDER.pdb
+C:\Users\Stefan\Desktop\WORD FINDER\WORD FINDER\obj\x86\Debug\WORD FINDER.csprojResolveAssemblyReference.cache
