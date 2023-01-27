@@ -15,7 +15,7 @@ This code is like a big updated version of that code.
   You can now inport your library of choice. Yes, you heard it right! It is now fully functional!  
   *Only restriction is that it doesn't accept characters in alphabet made out of two letters or more. Keep that in mind...*  
   So, how do you do it? *Easy.*  
-  Add dictionary into txt file named words_alpha (or just put a txt file named as that)  
+  Add dictionary into txt file named [words_alpha](https://github.com/KnifeEater/WORD-FINDER/blob/main/WORD%20FINDER/bin/Debug/words_alpha.txt) (or just put a txt file named as that)  
   Second, add **ALL** your letters of alphabet in letters_rank file. Make sure that every letter is in its own line (uppercase or lowercase, doesn't matter)  
   And lastly, third, run the program and acess developer mode (input a,d,m,i,n in five masked boxes and "admin" in "forbidden letters textbox" and press reset)  
   Press the "letter rank" button and then "word rank" button. This **NEEDS** to be in order.  
